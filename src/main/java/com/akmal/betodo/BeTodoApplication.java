@@ -1,4 +1,4 @@
-package com.akmal.App;
+package com.akmal.betodo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
